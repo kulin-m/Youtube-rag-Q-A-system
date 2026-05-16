@@ -694,9 +694,9 @@ Running the evaluation script generates 12 graphs in `eval_output/graphs/`:
 
 | Name | GitHub |
 |------|--------|
-| Ishant Shekhar | [@ishant212](https://github.com/ishant212) |
-| Lakshya Kumar Singh | [@X-ImLucky-X](https://github.com/X-ImLucky-X) |
 | Kulin Mathur | [@kulin-m](https://github.com/kulin-m) |
+| Brahmansh Nirendra Dwivedi | [@Brahmansh29](https://github.com/Brahmansh29) |
+
 
 ---
 
