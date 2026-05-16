@@ -1,0 +1,33 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model/cache files
+.cache/
+models/
+
+# Secrets
+*.json
+credentials.json
+service-account.json
+
+# Evaluation output
+eval_output/

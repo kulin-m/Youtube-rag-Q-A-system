@@ -1,0 +1,32 @@
+# ── Web framework ─────────────────────────────────────────────────────────────
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+
+# ── Core ML / NLP ─────────────────────────────────────────────────────────────
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0
+rank-bm25==0.2.2
+
+# ── Transformers stack ────────────────────────────────────────────────────────
+torch==2.3.0
+transformers==4.41.2
+
+# ── YouTube transcript extraction ─────────────────────────────────────────────
+yt-dlp==2024.5.27
+
+# ── Gemini API ────────────────────────────────────────────────────────────────
+google-generativeai==0.5.4
+
+# ── Evaluation ────────────────────────────────────────────────────────────────
+rouge-score==0.1.2
+bert-score==0.3.13
+nltk==3.8.1
+
+# ── Data / utilities ──────────────────────────────────────────────────────────
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.0
+python-dotenv==1.0.1
+
+# ── YouTube transcript (reliable caption fetch, no yt-dlp subtitle issues) ────
+youtube-transcript-api==0.6.2
